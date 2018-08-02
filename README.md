@@ -3,6 +3,8 @@
 ### Object Detection with Deep Learning: A Review 2018 [[paper]](https://arxiv.org/abs/1807.05511)
 ## 2016
 ### (Face) Joint Face Detection and Alignment Using Multi-task Cascaded Convolutional Networks SPL 2016 [[paper]](https://ieeexplore.ieee.org/document/7553523/)
+### (Face) UnitBox An Advanced Object Detection Network ACM MM 2016 [[paper]](https://dl.acm.org/citation.cfm?doid=2964284.2967274)
+"Intersection over Union (IoU) Loss"
 ## 2017
 ### (Face) Face Detection with the Faster R-CNN ICAFGR 2017 [[paper]](https://ieeexplore.ieee.org/document/7961803/)
 ### (Face) Finding Tiny Faces CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Finding_Tiny_Faces_CVPR_2017_paper.pdf)
@@ -18,3 +20,5 @@
 ### (Face) Fast Deep Convolutional Face Detection in the Wild Exploiting Hard Sample Mining [[paper]](https://www.sciencedirect.com/science/article/pii/S2214579617300096)
 ### (Face) PyramidBox A Context-assisted Single Shot Face Detector ECCV 2018 [[paper]](https://arxiv.org/abs/1803.07737)
 ### (Face) Face Detection Using Improved Faster RCNN 2018 [[paper]](https://arxiv.org/abs/1802.02142)
+### Acquisition of Localization Confidence for Accurate Object Detection ECCV 2018
+"IoU-Net"
