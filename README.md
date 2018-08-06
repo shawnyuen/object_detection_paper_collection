@@ -22,3 +22,5 @@
 ### (Face) Face Detection Using Improved Faster RCNN 2018 [[paper]](https://arxiv.org/abs/1802.02142)
 ### Acquisition of Localization Confidence for Accurate Object Detection ECCV 2018
 "IoU-Net"
+### CornerNet Detecting Objects as Paired Keypoints ECCV 2018 [[paper]](https://arxiv.org/abs/1808.01244)
+"CornerNet"
