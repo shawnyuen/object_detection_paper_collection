@@ -9,6 +9,8 @@
 ## 2015
 ### (Fast R-CNN) Fast R-CNN ICCV 2015 [[paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html)
 ### (Faster R-CNN) Faster R-CNN Towards Real-time Object Detection with Region Proposal Networks NIPS 2015 [[paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+### Object Detection via a Multi-region and Samantic Segmentation-aware CNN Model ICCV 2015 [[paper]]()
+### (Face) A Convolutional Neural Network Cascade for Face Detection CVPR 2015 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Li_A_Convolutional_Neural_2015_CVPR_paper.html)
 
 ## 2016
 ### (Face) Joint Face Detection and Alignment Using Multi-task Cascaded Convolutional Networks SPL 2016 [[paper]](https://ieeexplore.ieee.org/document/7553523/)
@@ -17,6 +19,11 @@
 ### (YOLO v1) You Only Look Once Unified Real-time Object Detection CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
 ### (SSD) SSD Single Shot MultiBox Detector ECCV 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2)
 ### R-FCN Object Detection via Region-based Fully Convolutional Networks NIPS 2016 [[paper]](https://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
+### Beyond Skip Connections Top-Down Modulation for Object Detection 2016
+### (MS-CNN) A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection ECCV 2016 [[paper]](http://link.springer.com/chapter/10.1007%2F978-3-319-46493-0_22)
+### LocNet Improving Localization Accuracy for Object Detection CVPR 2016 [[paper]]()
+### Training Region-Based Object Detectors with Online Hard Example Mining CVPR 2016 [[paper]]()
+### Inside-outside Net Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks CVPR 2016 [[paper]]()
 
 ## 2017
 ### (Face) Face Detection with the Faster R-CNN ICAFGR 2017 [[paper]](https://ieeexplore.ieee.org/document/7961803/)
@@ -36,16 +43,22 @@
 ### Focal Loss for Dense Object Detection ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)
 ### MegDet A Large Mini-Batch Object Detector 2017 [[paper]](https://arxiv.org/abs/1711.07240)
 ### A-Fast-RCNN Hard Positive Generation via Adversary for Object Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1704.03414)
+### Deformable Convolutional Networks 2017 [[paper]](https://arxiv.org/abs/1703.06211)
+### Speed Accuracy Trade-offs for Modern Convolutional Object Detectors CVPR 2017 [[paper]]()
+### Mask R-CNN ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)
+"best paper"
+### Soft-NMS -- Improving Object Detection With One Line of Code ICCV 2017 [[paper]]()
+### An Analysis of Scale Invariance in Object Detection - SNIP 2017 [[paper]](https://arxiv.org/abs/1711.08189)
+### CoupleNet Coupling Global Structure with Local Parts for Object Detection ICCV 2017 [[paper]]()
 
 ## 2018
-### DetNet: A Backbone network for Object Detection [[paper]](https://arxiv.org/abs/1804.06215)
-### (Face) Fast Deep Convolutional Face Detection in the Wild Exploiting Hard Sample Mining [[paper]](https://www.sciencedirect.com/science/article/pii/S2214579617300096)
-### (Face) PyramidBox A Context-assisted Single Shot Face Detector ECCV 2018 [[paper]](https://arxiv.org/abs/1803.07737)
 ### (Face) Face Detection Using Improved Faster RCNN 2018 [[paper]](https://arxiv.org/abs/1802.02142)
-### Acquisition of Localization Confidence for Accurate Object Detection ECCV 2018
-"IoU-Net"
+### (Face) PyramidBox A Context-assisted Single Shot Face Detector ECCV 2018 [[paper]](https://arxiv.org/abs/1803.07737)
+### (YOLO v3) YOLOv3 An Incremental Improvement 2018 [[paper]](https://arxiv.org/abs/1804.02767)
+### DetNet: A Backbone network for Object Detection [[paper]](https://arxiv.org/abs/1804.06215)
 ### CornerNet Detecting Objects as Paired Keypoints ECCV 2018 [[paper]](https://arxiv.org/abs/1808.01244)
 "CornerNet"
+### (Face) Fast Deep Convolutional Face Detection in the Wild Exploiting Hard Sample Mining [[paper]](https://www.sciencedirect.com/science/article/pii/S2214579617300096)
+### Acquisition of Localization Confidence for Accurate Object Detection ECCV 2018
+"IoU-Net"
 ### Cascade R-CNN Delving Into High Quality Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html) [[code]](https://github.com/zhaoweicai/cascade-rcnn)
-### (YOLO v3) YOLOv3 An Incremental Improvement 2018 [[paper]](https://arxiv.org/abs/1804.02767)
-### DetNet A Backbone network for Object Detection 2018 [[paper]](https://arxiv.org/abs/1804.06215)
