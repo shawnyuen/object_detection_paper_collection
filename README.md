@@ -65,16 +65,17 @@
 ### Soft-NMS -- Improving Object Detection With One Line of Code ICCV 2017 [[paper]]()
 ### An Analysis of Scale Invariance in Object Detection - SNIP 2017 [[paper]](https://arxiv.org/abs/1711.08189)
 ### CoupleNet Coupling Global Structure with Local Parts for Object Detection ICCV 2017 [[paper]](https://arxiv.org/abs/1708.02863) [[Caffe code]](https://github.com/tshizys/CoupleNet)
-### (RefineDet) Single-Shot Refinement Neural Network for Object Detection 2017 [[paper]](https://arxiv.org/abs/1711.06897)
+### (RefineDet) Single-Shot Refinement Neural Network for Object Detection 2017 [[paper]](https://arxiv.org/abs/1711.06897) [[Caffe code]](https://github.com/sfzhang15/RefineDet) [[Chainer code]](https://github.com/fukatani/RefineDet_chainer)
 ### (RON) RON Reverse Connection with Objectness Prior Networks for Object Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1707.01691) [[Caffe kong's code]](https://github.com/taokong/RON) [[TF code]](https://github.com/HiKapok/RON_Tensorflow)
 ### (DeNet) DeNet Scalable Real-time Object Detection with Directed Sparse Sampling ICCV 2017 [[paper]](https://arxiv.org/abs/1703.10295) [[Theano code]](https://github.com/lachlants/denet)
 ### Object Detection Networks on Convolutional Feature Maps IEEE TPAMI 2017 [[TPAMI paper]](https://ieeexplore.ieee.org/document/7546875/)
 ### Spatial Memory for Context Reasoning in Object Detection ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf)
+### Receptive Field Block Net for Accurate and Fast Object Detection ECCV 2018 [[paper]](https://arxiv.org/abs/1711.07767) [[PyTorch]](https://github.com/ruinmessi/RFBNet)
 
 ## 2018
 ### (Face) Face Detection Using Improved Faster RCNN 2018 [[paper]](https://arxiv.org/abs/1802.02142)
 ### (Face) PyramidBox A Context-assisted Single Shot Face Detector ECCV 2018 [[paper]](https://arxiv.org/abs/1803.07737)
-### (YOLO v3) YOLOv3 An Incremental Improvement 2018 [[paper]](https://arxiv.org/abs/1804.02767)
+### (YOLO v3) YOLOv3 An Incremental Improvement 2018 [[paper]](https://arxiv.org/abs/1804.02767) [[darknet code]](https://pjreddie.com/darknet/yolo/) [[PyTorch code]](https://github.com/ayooshkathuria/pytorch-yolo-v3) [[PyTorch code]](https://github.com/eriklindernoren/PyTorch-YOLOv3) [[Keras code]](https://github.com/xiaochus/YOLOv3) [[TF code]](https://github.com/mystic123/tensorflow-yolo-v3)
 ### DetNet: A Backbone network for Object Detection [[paper]](https://arxiv.org/abs/1804.06215)
 ### CornerNet Detecting Objects as Paired Keypoints ECCV 2018 [[paper]](https://arxiv.org/abs/1808.01244)
 "CornerNet"
@@ -82,3 +83,5 @@
 ### Acquisition of Localization Confidence for Accurate Object Detection ECCV 2018
 "IoU-Net"
 ### Cascade R-CNN Delving Into High Quality Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html) [[code]](https://github.com/zhaoweicai/cascade-rcnn)
+### Structure Inference Net Object Detection Using Scene-Level Context and Instance-Level Relationships CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Structure_Inference_Net_CVPR_2018_paper.pdf) [[TF code]](https://github.com/choasup/SIN)
+### Scale-Transferrable Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Scale-Transferrable_Object_Detection_CVPR_2018_paper.pdf)
