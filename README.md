@@ -4,27 +4,41 @@
 ### Deep Learning for Generic Object Detection A Survey 2018 [[paper]](https://arxiv.org/abs/1809.02165)
 
 ## 2014
-### (R-CNN) Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation CVPR 2014 [[paper]](http://people.eecs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf)
-### (SPP-Net) Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition ECCV 2014 [[paper]](https://ieeexplore.ieee.org/document/7005506/)
+### (R-CNN) Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation CVPR 2014 [[TPAMI paper]](http://people.eecs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf) [[Caffe code]](https://github.com/rbgirshick/rcnn)
+### (SPP-Net) Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition ECCV 2014 [[TPAMI paper]](https://ieeexplore.ieee.org/document/7005506/) [[Caffe code]](https://github.com/ShaoqingRen/SPP_net) [[Keras code]](https://github.com/yhenon/keras-spp) [[TF code]](https://github.com/peace195/sppnet)
+### (OverFeat) OverFeat Integrated Recognition Localization and Detection Using Convolutional Networks ICLR 2014 [[paper]](http://arxiv.org/abs/1312.6229) [[Torch code]](https://github.com/sermanet/OverFeat)
+### (DeepMultiBox) Scalable Object Detection Using Deep Neural Networks CVPR 2014 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Erhan_Scalable_Object_Detection_2014_CVPR_paper.html)
 
 ## 2015
-### (Fast R-CNN) Fast R-CNN ICCV 2015 [[paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html)
-### (Faster R-CNN) Faster R-CNN Towards Real-time Object Detection with Region Proposal Networks NIPS 2015 [[paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-### Object Detection via a Multi-region and Samantic Segmentation-aware CNN Model ICCV 2015 [[paper]]()
+### (Fast R-CNN) Fast R-CNN ICCV 2015 [[paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html) [[Caffe code]](https://github.com/rbgirshick/fast-rcnn)
+### (Faster R-CNN/2D RPN) Faster R-CNN Towards Real-time Object Detection with Region Proposal Networks NIPS 2015 [[NIPS paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks) [[Caffe-python code]](https://github.com/rbgirshick/py-faster-rcnn) [[Caffe-matlab code]] [[TF code]](https://github.com/endernewton/tf-faster-rcnn) [[PyTorch code]](https://github.com/jwyang/faster-rcnn.pytorch)
+### (Multi-Region CNN) Object Detection via a Multi-region and Samantic Segmentation-aware CNN Model ICCV 2015 [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Gidaris_Object_Detection_via_ICCV_2015_paper.pdf) [[Caffe code]](https://github.com/gidariss/mrcnn-object-detection)
 ### (Face) A Convolutional Neural Network Cascade for Face Detection CVPR 2015 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Li_A_Convolutional_Neural_2015_CVPR_paper.html)
+### (DeepBox) DeepBox Learning Objectness with Convolutional Networks ICCV 2015 [[paper]](https://ieeexplore.ieee.org/document/7410642/) [[Caffe code]](https://github.com/weichengkuo/DeepBox)
+### (AttentionNet) AttentionNet Aggregating Weak Directions for Accurate Object Detection ICCV 2015 [[paper]](https://ieeexplore.ieee.org/document/7410662/)
+### (DeepProposals) DeepProposals Hunting Objects and Actions by Cascading Deep Convolutional Layers ICCV 2015 [[IJCV paper]](https://link.springer.com/article/10.1007/s11263-017-1006-x) [[MatConvNet code]](https://github.com/aghodrati/deepproposal)
+### DeepID-Net: Deformable deep convolutional neural networks for object detection [[paper]](https://ieeexplore.ieee.org/document/7298854/)
 
 ## 2016
+### G-CNN An Iterative Grid Based Object Detector CVPR 2016 [[paper]](https://ieeexplore.ieee.org/document/7410662/)
 ### (Face) Joint Face Detection and Alignment Using Multi-task Cascaded Convolutional Networks SPL 2016 [[paper]](https://ieeexplore.ieee.org/document/7553523/)
 ### (Face) UnitBox An Advanced Object Detection Network ACM MM 2016 [[paper]](https://dl.acm.org/citation.cfm?doid=2964284.2967274)
 "Intersection over Union (IoU) Loss"
-### (YOLO v1) You Only Look Once Unified Real-time Object Detection CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
-### (SSD) SSD Single Shot MultiBox Detector ECCV 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2)
-### R-FCN Object Detection via Region-based Fully Convolutional Networks NIPS 2016 [[paper]](https://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
+### (YOLO v1) You Only Look Once Unified Real-time Object Detection CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html) [[darknet code]](https://pjreddie.com/darknet/yolo/)
+### (SSD) SSD Single Shot MultiBox Detector ECCV 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2) [[Caffe code]](https://github.com/weiliu89/caffe/tree/ssd) [[TF code]](https://github.com/balancap/SSD-Tensorflow) [[PyTorch]](https://github.com/amdegroot/ssd.pytorch)
+### (R-FCN) R-FCN Object Detection via Region-based Fully Convolutional Networks NIPS 2016 [[paper]](https://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks) [[Caffe Dai's code]](https://github.com/daijifeng001/R-FCN) [[Caffe code]](https://github.com/YuwenXiong/py-R-FCN)
 ### Beyond Skip Connections Top-Down Modulation for Object Detection 2016
-### (MS-CNN) A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection ECCV 2016 [[paper]](http://link.springer.com/chapter/10.1007%2F978-3-319-46493-0_22)
+### (MS-CNN) A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection ECCV 2016 [[paper]](http://link.springer.com/chapter/10.1007%2F978-3-319-46493-0_22) [[Caffe code]](https://github.com/zhaoweicai/mscnn)
 ### LocNet Improving Localization Accuracy for Object Detection CVPR 2016 [[paper]]()
-### Training Region-Based Object Detectors with Online Hard Example Mining CVPR 2016 [[paper]]()
+### Training Region-Based Object Detectors with Online Hard Example Mining CVPR 2016 [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.pdf) [[Caffe code]](https://github.com/abhi2610/ohem)
 ### Inside-outside Net Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks CVPR 2016 [[paper]]()
+### (AZ-Net) Adaptive Object Detection Using Adjacency and Zoom Prediction CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lu_Adaptive_Object_Detection_CVPR_2016_paper.pdf) [[Caffe code]](https://github.com/luyongxi/az-net)
+### HyperNet Towards Accurate Region Proposal Generation and Joint Object Detection CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf)
+### CRAFT Objects From Images CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_CRAFT_Objects_From_CVPR_2016_paper.html) [[Caffe code]](https://github.com/byangderek/CRAFT)
+### A MultiPath Network for Object Detection BMVC 2016 [[paper]](https://arxiv.org/abs/1604.02135) [[Torch code]](https://github.com/facebookresearch/multipathnet)
+### Crafting GBD-Net for Object Detection ECCV 2016 [[TPAMI paper]](https://ieeexplore.ieee.org/document/8017422/) [[Caffe code]](https://github.com/craftGBD/craftGBD)
+### Contextual Priming and Feedback for Faster R-CNN ECCV 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_20)
+### PVANET Deep but Lightweight Neural Networks for Real-time Object Detection NIPSW 2016 [[paper]](https://arxiv.org/abs/1608.08021) [[Caffe code]](https://github.com/sanghoon/pva-faster-rcnn)
 
 ## 2017
 ### (Face) Face Detection with the Faster R-CNN ICAFGR 2017 [[paper]](https://ieeexplore.ieee.org/document/7961803/)
@@ -54,6 +68,7 @@
 ### (RefineDet) Single-Shot Refinement Neural Network for Object Detection 2017 [[paper]](https://arxiv.org/abs/1711.06897)
 ### (RON) RON Reverse Connection with Objectness Prior Networks for Object Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1707.01691)
 ### (DeNet) DeNet Scalable Real-time Object Detection with Directed Sparse Sampling ICCV 2017 [[paper]](https://arxiv.org/abs/1703.10295)
+### Object Detection Networks on Convolutional Feature Maps IEEE TPAMI 2017 [[TPAMI paper]](https://ieeexplore.ieee.org/document/7546875/)
 
 ## 2018
 ### (Face) Face Detection Using Improved Faster RCNN 2018 [[paper]](https://arxiv.org/abs/1802.02142)
