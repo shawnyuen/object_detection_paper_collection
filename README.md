@@ -62,7 +62,7 @@
 ### Speed Accuracy Trade-offs for Modern Convolutional Object Detectors CVPR 2017 [[paper]](https://arxiv.org/abs/1611.10012)
 ### Mask R-CNN ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html) [[Caffe2 code]](https://github.com/facebookresearch/Detectron) [[TF code]](https://github.com/matterport/Mask_RCNN) [[TF code]](https://github.com/CharlesShang/FastMaskRCNN) [[Pytorch code]](https://github.com/multimodallearning/pytorch-mask-rcnn) [[MXNet tusimple's code]](https://github.com/TuSimple/mx-maskrcnn)
 "best paper"
-### Soft-NMS -- Improving Object Detection With One Line of Code ICCV 2017 [[paper]]()
+### (Soft NMS) Soft-NMS -- Improving Object Detection With One Line of Code ICCV 2017 [[paper]]()
 ### An Analysis of Scale Invariance in Object Detection - SNIP 2017 [[paper]](https://arxiv.org/abs/1711.08189)
 ### CoupleNet Coupling Global Structure with Local Parts for Object Detection ICCV 2017 [[paper]](https://arxiv.org/abs/1708.02863) [[Caffe code]](https://github.com/tshizys/CoupleNet)
 ### (RefineDet) Single-Shot Refinement Neural Network for Object Detection 2017 [[paper]](https://arxiv.org/abs/1711.06897) [[Caffe code]](https://github.com/sfzhang15/RefineDet) [[Chainer code]](https://github.com/fukatani/RefineDet_chainer)
@@ -71,17 +71,22 @@
 ### Object Detection Networks on Convolutional Feature Maps IEEE TPAMI 2017 [[TPAMI paper]](https://ieeexplore.ieee.org/document/7546875/)
 ### Spatial Memory for Context Reasoning in Object Detection ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf)
 ### Receptive Field Block Net for Accurate and Fast Object Detection ECCV 2018 [[paper]](https://arxiv.org/abs/1711.07767) [[PyTorch]](https://github.com/ruinmessi/RFBNet)
+### (Learnable NMS) Learning Non-maximum Suppression CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hosang_Learning_Non-Maximum_Suppression_CVPR_2017_paper.pdf)
 
 ## 2018
 ### (Face) Face Detection Using Improved Faster RCNN 2018 [[paper]](https://arxiv.org/abs/1802.02142)
 ### (Face) PyramidBox A Context-assisted Single Shot Face Detector ECCV 2018 [[paper]](https://arxiv.org/abs/1803.07737)
 ### (YOLO v3) YOLOv3 An Incremental Improvement 2018 [[paper]](https://arxiv.org/abs/1804.02767) [[darknet code]](https://pjreddie.com/darknet/yolo/) [[PyTorch code]](https://github.com/ayooshkathuria/pytorch-yolo-v3) [[PyTorch code]](https://github.com/eriklindernoren/PyTorch-YOLOv3) [[Keras code]](https://github.com/xiaochus/YOLOv3) [[TF code]](https://github.com/mystic123/tensorflow-yolo-v3)
-### DetNet: A Backbone network for Object Detection [[paper]](https://arxiv.org/abs/1804.06215)
-### CornerNet Detecting Objects as Paired Keypoints ECCV 2018 [[paper]](https://arxiv.org/abs/1808.01244)
+### (DetNet) DetNet: A Backbone network for Object Detection [[paper]](https://arxiv.org/abs/1804.06215)
+### (CornerNet) CornerNet Detecting Objects as Paired Keypoints ECCV 2018 [[paper]](https://arxiv.org/abs/1808.01244)
 "CornerNet"
 ### (Face) Fast Deep Convolutional Face Detection in the Wild Exploiting Hard Sample Mining [[paper]](https://www.sciencedirect.com/science/article/pii/S2214579617300096)
-### Acquisition of Localization Confidence for Accurate Object Detection ECCV 2018
+### (IoU-Net) Acquisition of Localization Confidence for Accurate Object Detection ECCV 2018
 "IoU-Net"
-### Cascade R-CNN Delving Into High Quality Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html) [[code]](https://github.com/zhaoweicai/cascade-rcnn)
+### (Cascade R-CNN) Cascade R-CNN Delving Into High Quality Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html) [[code]](https://github.com/zhaoweicai/cascade-rcnn)
 ### Structure Inference Net Object Detection Using Scene-Level Context and Instance-Level Relationships CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Structure_Inference_Net_CVPR_2018_paper.pdf) [[TF code]](https://github.com/choasup/SIN)
 ### Scale-Transferrable Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Scale-Transferrable_Object_Detection_CVPR_2018_paper.pdf)
+### (Softer NMS) Softer-NMS Rethinking Bounding Box Regression for Accurate Object Detection 2018 [[paper]](https://arxiv.org/abs/1809.08545) [[code]](https://github.com/yihui-he/softer-NMS)
+"novel objection detection loss, KL loss"
+### Learning Globally Optimized Object Detector via Policy Gradient CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Rao_Learning_Globally_Optimized_CVPR_2018_paper.pdf)
+### Relation Networks for Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
