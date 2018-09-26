@@ -54,7 +54,7 @@
 ### (YOLO v2) YOLO9000 Better Faster Stronger CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html) [[darknet code]](https://pjreddie.com/darknet/yolo/) [[Caffe code]](https://github.com/quhezheng/caffe_yolo_v2) [[TF code]](https://github.com/nilboy/tensorflow-yolo) [[TF code]](https://github.com/sualab/object-detection-yolov2) [[PyTorch code]](https://github.com/longcw/yolo2-pytorch)
 ### (DSSD) DSSD Deconvolutional Single Shot Detector 2017 [[paper]](https://arxiv.org/abs/1701.06659) [[Caffe code]](https://github.com/chengyangfu/caffe/tree/dssd)
 ### (FPN) Feature Pyramid Networks for Object Detection CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html) [[Caffe code]](https://github.com/unsky/FPN)
-### DSOD Learning Deeply Supervised Object Detectors From Scratch ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Shen_DSOD_Learning_Deeply_ICCV_2017_paper.html) [[Caffe code]](https://github.com/szq0214/DSOD) [[Pytorch code]](https://github.com/uoip/SSD-variants)
+### (DSOD) DSOD Learning Deeply Supervised Object Detectors From Scratch ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Shen_DSOD_Learning_Deeply_ICCV_2017_paper.html) [[Caffe code]](https://github.com/szq0214/DSOD) [[Pytorch code]](https://github.com/uoip/SSD-variants)
 ### (RetinaNet) Focal Loss for Dense Object Detection ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html) [[Keras code]](https://github.com/fizyr/keras-retinanet) [[PyTorch code]](https://github.com/kuangliu/pytorch-retinanet) [[MXNet code]](https://github.com/unsky/RetinaNet) [[TF code]](https://github.com/tensorflow/tpu/tree/master/models/official/retinanet)
 ### MegDet A Large Mini-Batch Object Detector 2017 [[paper]](https://arxiv.org/abs/1711.07240)
 ### A-Fast-RCNN Hard Positive Generation via Adversary for Object Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1704.03414)
@@ -65,19 +65,20 @@
 ### (Soft NMS) Soft-NMS -- Improving Object Detection With One Line of Code ICCV 2017 [[paper]]()
 ### An Analysis of Scale Invariance in Object Detection - SNIP 2017 [[paper]](https://arxiv.org/abs/1711.08189)
 ### CoupleNet Coupling Global Structure with Local Parts for Object Detection ICCV 2017 [[paper]](https://arxiv.org/abs/1708.02863) [[Caffe code]](https://github.com/tshizys/CoupleNet)
-### (RefineDet) Single-Shot Refinement Neural Network for Object Detection 2017 [[paper]](https://arxiv.org/abs/1711.06897) [[Caffe code]](https://github.com/sfzhang15/RefineDet) [[Chainer code]](https://github.com/fukatani/RefineDet_chainer)
 ### (RON) RON Reverse Connection with Objectness Prior Networks for Object Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1707.01691) [[Caffe kong's code]](https://github.com/taokong/RON) [[TF code]](https://github.com/HiKapok/RON_Tensorflow)
 ### (DeNet) DeNet Scalable Real-time Object Detection with Directed Sparse Sampling ICCV 2017 [[paper]](https://arxiv.org/abs/1703.10295) [[Theano code]](https://github.com/lachlants/denet)
 ### Object Detection Networks on Convolutional Feature Maps IEEE TPAMI 2017 [[TPAMI paper]](https://ieeexplore.ieee.org/document/7546875/)
 ### Spatial Memory for Context Reasoning in Object Detection ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf)
 ### Receptive Field Block Net for Accurate and Fast Object Detection ECCV 2018 [[paper]](https://arxiv.org/abs/1711.07767) [[PyTorch]](https://github.com/ruinmessi/RFBNet)
 ### (Learnable NMS) Learning Non-maximum Suppression CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hosang_Learning_Non-Maximum_Suppression_CVPR_2017_paper.pdf)
+### Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids 2017 [[paper]](https://arxiv.org/abs/1712.00886)
 
 ## 2018
 ### (Face) Face Detection Using Improved Faster RCNN 2018 [[paper]](https://arxiv.org/abs/1802.02142)
 ### (Face) PyramidBox A Context-assisted Single Shot Face Detector ECCV 2018 [[paper]](https://arxiv.org/abs/1803.07737)
 ### (YOLO v3) YOLOv3 An Incremental Improvement 2018 [[paper]](https://arxiv.org/abs/1804.02767) [[darknet code]](https://pjreddie.com/darknet/yolo/) [[PyTorch code]](https://github.com/ayooshkathuria/pytorch-yolo-v3) [[PyTorch code]](https://github.com/eriklindernoren/PyTorch-YOLOv3) [[Keras code]](https://github.com/xiaochus/YOLOv3) [[TF code]](https://github.com/mystic123/tensorflow-yolo-v3)
-### (DetNet) DetNet: A Backbone network for Object Detection [[paper]](https://arxiv.org/abs/1804.06215)
+### (DetNet) DetNet A Backbone network for Object Detection [[paper]](https://arxiv.org/abs/1804.06215)
+### (DetNet) DetNet Design Backbone for Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zeming_Li_DetNet_Design_Backbone_ECCV_2018_paper.pdf)
 ### (CornerNet) CornerNet Detecting Objects as Paired Keypoints ECCV 2018 [[paper]](https://arxiv.org/abs/1808.01244)
 "CornerNet"
 ### (Face) Fast Deep Convolutional Face Detection in the Wild Exploiting Hard Sample Mining [[paper]](https://www.sciencedirect.com/science/article/pii/S2214579617300096)
@@ -90,3 +91,10 @@
 "novel objection detection loss, KL loss"
 ### Learning Globally Optimized Object Detector via Policy Gradient CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Rao_Learning_Globally_Optimized_CVPR_2018_paper.pdf)
 ### Relation Networks for Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
+### Object Detection from Scratch with Deep Supervision 2018 [[paper]]()
+"IEEE TPAMI version of DSOD", "adding an experiment about comparison to Mask R-CNN"
+### (RefineDet) Single-Shot Refinement Neural Network for Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf) [[ArXiv paper]](https://arxiv.org/abs/1711.06897) [[Caffe code]](https://github.com/sfzhang15/RefineDet) [[Chainer code]](https://github.com/fukatani/RefineDet_chainer)
+### TS2C Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yunchao_Wei_TS2C_Tight_Box_ECCV_2018_paper.html)
+### Tiny-DSOD Lightweight Object Detection for Resource-Restricted Usages BMVC 2018 [[paper]](https://arxiv.org/abs/1807.11013)
+### Context Refinement for Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhe_Chen_Context_Refinement_for_ECCV_2018_paper.pdf)
+### Deep Feature Pyramid Reconfiguration for Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tao_Kong_Deep_Feature_Pyramid_ECCV_2018_paper.pdf)
