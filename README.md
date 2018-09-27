@@ -62,7 +62,7 @@
 ### Speed Accuracy Trade-offs for Modern Convolutional Object Detectors CVPR 2017 [[paper]](https://arxiv.org/abs/1611.10012)
 ### Mask R-CNN ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html) [[Caffe2 code]](https://github.com/facebookresearch/Detectron) [[TF code]](https://github.com/matterport/Mask_RCNN) [[TF code]](https://github.com/CharlesShang/FastMaskRCNN) [[Pytorch code]](https://github.com/multimodallearning/pytorch-mask-rcnn) [[MXNet tusimple's code]](https://github.com/TuSimple/mx-maskrcnn)
 "best paper"
-### (Soft NMS) Soft-NMS -- Improving Object Detection With One Line of Code ICCV 2017 [[paper]]()
+### (Soft NMS) Soft-NMS -- Improving Object Detection With One Line of Code ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Bodla_Soft-NMS_--_Improving_ICCV_2017_paper.html) [[code]](https://github.com/bharatsingh430/soft-nms)
 ### An Analysis of Scale Invariance in Object Detection - SNIP 2017 [[paper]](https://arxiv.org/abs/1711.08189)
 ### CoupleNet Coupling Global Structure with Local Parts for Object Detection ICCV 2017 [[paper]](https://arxiv.org/abs/1708.02863) [[Caffe code]](https://github.com/tshizys/CoupleNet)
 ### (RON) RON Reverse Connection with Objectness Prior Networks for Object Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1707.01691) [[Caffe kong's code]](https://github.com/taokong/RON) [[TF code]](https://github.com/HiKapok/RON_Tensorflow)
