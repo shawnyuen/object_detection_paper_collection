@@ -98,3 +98,6 @@
 ### Tiny-DSOD Lightweight Object Detection for Resource-Restricted Usages BMVC 2018 [[paper]](https://arxiv.org/abs/1807.11013)
 ### Context Refinement for Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhe_Chen_Context_Refinement_for_ECCV_2018_paper.pdf)
 ### Deep Feature Pyramid Reconfiguration for Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tao_Kong_Deep_Feature_Pyramid_ECCV_2018_paper.pdf)
+
+## 2019
+### Prime Sample Attention in Object Detection 2019 [[paper]](https://arxiv.org/abs/1904.04821)
