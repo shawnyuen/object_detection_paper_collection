@@ -102,3 +102,4 @@
 ## 2019
 ### Prime Sample Attention in Object Detection 2019 [[paper]](https://arxiv.org/abs/1904.04821)
 ### GCNet Non-local Networks Meet Squeeze-Excitation Networks and Beyond 2019 [[paper]](https://arxiv.org/abs/1904.11492) [[PyTorch code]](https://github.com/xvjiarui/GCNet)
+### FoveaBox: Beyond Anchor-based Object Detector 2019 [[paper]](https://arxiv.org/abs/1904.03797) [[code]](https://github.com/taokong/FoveaBox)
