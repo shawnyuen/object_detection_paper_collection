@@ -58,7 +58,7 @@
 ### (YOLO v2) YOLO9000 Better Faster Stronger CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html) [[darknet code]](https://pjreddie.com/darknet/yolo/) [[Caffe code]](https://github.com/quhezheng/caffe_yolo_v2) [[TF code]](https://github.com/nilboy/tensorflow-yolo) [[TF code]](https://github.com/sualab/object-detection-yolov2) [[PyTorch code]](https://github.com/longcw/yolo2-pytorch)
 ### (DSSD) DSSD Deconvolutional Single Shot Detector 2017 [[paper]](https://arxiv.org/abs/1701.06659) [[Caffe code]](https://github.com/chengyangfu/caffe/tree/dssd)
 ### (FPN) Feature Pyramid Networks for Object Detection CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html) [[Caffe code]](https://github.com/unsky/FPN)
-### (DSOD) DSOD Learning Deeply Supervised Object Detectors From Scratch ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Shen_DSOD_Learning_Deeply_ICCV_2017_paper.html) [[Caffe code]](https://github.com/szq0214/DSOD) [[Pytorch code]](https://github.com/uoip/SSD-variants)
+### (DSOD) DSOD Learning Deeply Supervised Object Detectors From Scratch ICCV 2017 [[ICCV paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Shen_DSOD_Learning_Deeply_ICCV_2017_paper.html) [[arXiv paper]](https://arxiv.org/abs/1708.01241) [[Caffe code]](https://github.com/szq0214/DSOD) [[Pytorch code]](https://github.com/uoip/SSD-variants)
 ### (RetinaNet) Focal Loss for Dense Object Detection ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html) [[Keras code]](https://github.com/fizyr/keras-retinanet) [[PyTorch code]](https://github.com/kuangliu/pytorch-retinanet) [[MXNet code]](https://github.com/unsky/RetinaNet) [[TF code]](https://github.com/tensorflow/tpu/tree/master/models/official/retinanet)
 ### MegDet A Large Mini-Batch Object Detector 2017 [[paper]](https://arxiv.org/abs/1711.07240)
 ### A-Fast-RCNN Hard Positive Generation via Adversary for Object Detection CVPR 2017 [[paper]](https://arxiv.org/abs/1704.03414)
@@ -95,7 +95,7 @@
 "novel objection detection loss, KL loss"
 ### Learning Globally Optimized Object Detector via Policy Gradient CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Rao_Learning_Globally_Optimized_CVPR_2018_paper.pdf)
 ### Relation Networks for Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)
-### Object Detection from Scratch with Deep Supervision 2018 [[paper]]()
+### Object Detection from Scratch with Deep Supervision arXiv 2018 [[paper]](https://arxiv.org/abs/1809.09294)
 "IEEE TPAMI version of DSOD", "adding an experiment about comparison to Mask R-CNN"
 ### (RefineDet) Single-Shot Refinement Neural Network for Object Detection CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf) [[ArXiv paper]](https://arxiv.org/abs/1711.06897) [[Caffe code]](https://github.com/sfzhang15/RefineDet) [[Chainer code]](https://github.com/fukatani/RefineDet_chainer)
 ### TS2C Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yunchao_Wei_TS2C_Tight_Box_ECCV_2018_paper.html)
