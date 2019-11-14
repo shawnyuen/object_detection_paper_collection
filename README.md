@@ -1,7 +1,11 @@
 # ObjectDetectPaperCollection
 ## Review and Survey
 ### Object Detection with Deep Learning: A Review 2018 [[paper]](https://arxiv.org/abs/1807.05511)
-### Deep Learning for Generic Object Detection A Survey 2018 [[paper]](https://arxiv.org/abs/1809.02165)
+### Deep Learning for Generic Object Detection: A Survey 2018 [[paper]](https://arxiv.org/abs/1809.02165)
+### Object Detection in 20 Years: A Survey 2019 [[paper]](https://arxiv.org/abs/1905.05055)
+### A Survey of Deep Learning-based Object Detection 2019 [[paper]](https://arxiv.org/abs/1907.09408)
+### Recent Advances in Deep Learning for Object Detection 2019 [[paper]](https://arxiv.org/abs/1908.03673)
+### Imbalance Problems in Object Detection: A Review 2019 [[paper]](https://arxiv.org/abs/1909.00169)
 
 ## 2014
 ### (R-CNN) Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation CVPR 2014 [[TPAMI paper]](http://people.eecs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf) [[Caffe code]](https://github.com/rbgirshick/rcnn)
