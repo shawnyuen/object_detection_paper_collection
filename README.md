@@ -108,3 +108,6 @@
 ### GCNet Non-local Networks Meet Squeeze-Excitation Networks and Beyond 2019 [[paper]](https://arxiv.org/abs/1904.11492) [[PyTorch code]](https://github.com/xvjiarui/GCNet)
 ### FoveaBox: Beyond Anchor-based Object Detector 2019 [[paper]](https://arxiv.org/abs/1904.03797) [[code]](https://github.com/taokong/FoveaBox)
 ### Gradient Harmonized Single-stage Detector AAAI 2019 [[paper]](https://arxiv.org/abs/1811.05181) [[ode]](https://github.com/libuyu/GHM_Detection)
+
+## 2020
+### MatrixNets A New Scale and Aspect Ratio Aware Architecture for Object Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2001.03194)
