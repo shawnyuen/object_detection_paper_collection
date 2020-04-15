@@ -111,3 +111,4 @@
 
 ## 2020
 ### MatrixNets A New Scale and Aspect Ratio Aware Architecture for Object Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2001.03194)
+### DR Loss Improving Object Detection by Distributional Ranking CVPR 2020 [[paper]](https://arxiv.org/abs/1907.10156)
