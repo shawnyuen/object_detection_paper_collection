@@ -110,6 +110,7 @@
 ### Gradient Harmonized Single-stage Detector AAAI 2019 [[paper]](https://arxiv.org/abs/1811.05181) [[ode]](https://github.com/libuyu/GHM_Detection)
 
 ## 2020
-### MatrixNets A New Scale and Aspect Ratio Aware Architecture for Object Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2001.03194)
+### BorderDet: Border Feature for Dense Object Detection ECCV 2020 [[paper]](https://arxiv.org/abs/2007.11056) [[code]](https://github.com/Megvii-BaseDetection/BorderDet)
 ### DR Loss Improving Object Detection by Distributional Ranking CVPR 2020 [[paper]](https://arxiv.org/abs/1907.10156)
 ### FCOS A Simple and Strong Anchor-free Object Detector arXiv 2020 [[paper]](https://arxiv.org/abs/2006.09214)
+### MatrixNets A New Scale and Aspect Ratio Aware Architecture for Object Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2001.03194)
