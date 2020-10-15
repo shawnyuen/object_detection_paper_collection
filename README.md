@@ -104,10 +104,12 @@
 ### Deep Feature Pyramid Reconfiguration for Object Detection ECCV 2018 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tao_Kong_Deep_Feature_Pyramid_ECCV_2018_paper.pdf)
 
 ## 2019
-### Prime Sample Attention in Object Detection 2019 [[paper]](https://arxiv.org/abs/1904.04821)
-### GCNet Non-local Networks Meet Squeeze-Excitation Networks and Beyond 2019 [[paper]](https://arxiv.org/abs/1904.11492) [[PyTorch code]](https://github.com/xvjiarui/GCNet)
-### FoveaBox: Beyond Anchor-based Object Detector 2019 [[paper]](https://arxiv.org/abs/1904.03797) [[code]](https://github.com/taokong/FoveaBox)
+### Dense RepPoints Representing Visual Objects with Dense Point Sets arXiv 2019 [[paper]](https://arxiv.org/abs/1912.11473) [[code]](https://github.com/justimyhxu/Dense-RepPoints)
+### FoveaBox Beyond Anchor-based Object Detector arXiv 2019 [[paper]](https://arxiv.org/abs/1904.03797) [[code]](https://github.com/taokong/FoveaBox)
+### GCNet Non-local Networks Meet Squeeze-Excitation Networks and Beyond arXiv 2019 [[paper]](https://arxiv.org/abs/1904.11492) [[PyTorch code]](https://github.com/xvjiarui/GCNet)
 ### Gradient Harmonized Single-stage Detector AAAI 2019 [[paper]](https://arxiv.org/abs/1811.05181) [[ode]](https://github.com/libuyu/GHM_Detection)
+### Prime Sample Attention in Object Detection arXiv 2019 [[paper]](https://arxiv.org/abs/1904.04821)
+### RepPoints Point Set Representation for Object Detection ICCV 2019 [[paper]](https://arxiv.org/abs/1904.11490v1) [[code]](https://github.com/microsoft/RepPoints)
 
 ## 2020
 ### BorderDet: Border Feature for Dense Object Detection ECCV 2020 [[paper]](https://arxiv.org/abs/2007.11056) [[code]](https://github.com/Megvii-BaseDetection/BorderDet)
