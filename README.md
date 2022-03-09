@@ -121,3 +121,6 @@
 ### RelationNet++ Bridging Visual Representations for Object Detection via Transformer Decoder [[paper]](https://arxiv.org/abs/2010.15831) [[code]](https://github.com/microsoft/RelationNet2)
 ### RepPoints V2 Verification Meets Regression for Object Detection arXiv 2020 [[paper]](https://arxiv.org/abs/2007.08508) [[code]](https://github.com/Scalsol/RepPointsV2)
 ### Sparse R-CNN End-to-End Object Detection with Learnable Proposals arXiv 2020 [[paper]](https://arxiv.org/abs/2011.12450) [[code]](https://github.com/PeizeSun/SparseR-CNN)
+
+## 2021
+### Oriented R-CNN for Object Detection ICCV 2021 [[paper]]()
