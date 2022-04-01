@@ -123,7 +123,9 @@
 ### Sparse R-CNN End-to-End Object Detection with Learnable Proposals arXiv 2020 [[paper]](https://arxiv.org/abs/2011.12450) [[code]](https://github.com/PeizeSun/SparseR-CNN)
 
 ## 2021
+### Benchmarking Detection Transfer Learning with Vision Transformers arXiv 2021 [[paper]]()
 ### Oriented R-CNN for Object Detection ICCV 2021 [[paper]]()
 
 ## 2022
-### Exploring Plain Vision Transformer Backbones for Object Detection arXiv 2022 [[paper]]()
+### (ViTDet) Exploring Plain Vision Transformer Backbones for Object Detection arXiv 2022 [[paper]]()
+"We report **61.3** AP^box on the COCO dataset with a plain ViT-Huge backbone, using only ImageNet-1K pre-training with no labels", "research direction: plain-backbone detection, decoupling pre-training and fine-tuning"
