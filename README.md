@@ -1,4 +1,4 @@
-# ObjectDetectPaperCollection
+# object_detection_papers
 ## Review and Survey
 ### Object Detection with Deep Learning: A Review 2018 [[paper]](https://arxiv.org/abs/1807.05511)
 ### Deep Learning for Generic Object Detection: A Survey 2018 [[paper]](https://arxiv.org/abs/1809.02165)
@@ -124,3 +124,6 @@
 
 ## 2021
 ### Oriented R-CNN for Object Detection ICCV 2021 [[paper]]()
+
+## 2022
+### Exploring Plain Vision Transformer Backbones for Object Detection arXiv 2022 [[paper]]()
