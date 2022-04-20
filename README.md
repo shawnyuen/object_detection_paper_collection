@@ -127,5 +127,7 @@
 ### Oriented R-CNN for Object Detection ICCV 2021 [[paper]]()
 
 ## 2022
+### CenterNet++ for Object Detection arXiv 2022 [[paper]](https://arxiv.org/abs/2204.08394) [[code]](https://github.com/Duankaiwen/PyCenterNet)
+"On the MS-COCO dataset, CenterNet with Res2Net-101 and Swin-Transformer achieves APs of **53.7%** and **57.1%**, respectively"
 ### (ViTDet) Exploring Plain Vision Transformer Backbones for Object Detection arXiv 2022 [[paper]]()
 "We report **61.3** AP^box on the COCO dataset with a plain ViT-Huge backbone, using only ImageNet-1K pre-training with no labels", "research direction: plain-backbone detection, decoupling pre-training and fine-tuning"
