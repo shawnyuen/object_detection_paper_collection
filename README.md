@@ -1,4 +1,5 @@
-# object_detection_papers
+# object_detection_paper_collection
+
 ## Review and Survey
 ### Object Detection with Deep Learning: A Review 2018 [[paper]](https://arxiv.org/abs/1807.05511)
 ### Deep Learning for Generic Object Detection: A Survey 2018 [[paper]](https://arxiv.org/abs/1809.02165)
