@@ -8,6 +8,13 @@
 ### Recent Advances in Deep Learning for Object Detection 2019 [[paper]](https://arxiv.org/abs/1908.03673)
 ### Imbalance Problems in Object Detection: A Review 2019 [[paper]](https://arxiv.org/abs/1909.00169)
 
+## 2022
+### CenterNet++ for Object Detection arXiv 2022 [[paper]](https://arxiv.org/abs/2204.08394) [[code]](https://github.com/Duankaiwen/PyCenterNet)
+"On the MS-COCO dataset, CenterNet with Res2Net-101 and Swin-Transformer achieves APs of **53.7%** and **57.1%**, respectively"
+### (ViTDet) Exploring Plain Vision Transformer Backbones for Object Detection arXiv 2022 [[paper]](https://arxiv.org/abs/2203.16527)
+"We report **61.3** AP^box on the COCO dataset with a plain ViT-Huge backbone, using only ImageNet-1K pre-training with no labels", "research direction: plain-backbone detection, decoupling pre-training and fine-tuning"
+### YOLOv7 - Trainable Bag-of-freebies Sets New State-of-the-art for Real-time Object Detectors arXiv 2022 [[paper]](https://arxiv.org/abs/2207.02696) [[code]](https://github.com/WongKinYiu/yolov7)
+
 ## 2014
 ### (R-CNN) Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation CVPR 2014 [[TPAMI paper]](http://people.eecs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf) [[Caffe code]](https://github.com/rbgirshick/rcnn)
 ### (SPP-Net) Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition ECCV 2014 [[TPAMI paper]](https://ieeexplore.ieee.org/document/7005506/) [[Caffe code]](https://github.com/ShaoqingRen/SPP_net) [[Keras code]](https://github.com/yhenon/keras-spp) [[TF code]](https://github.com/peace195/sppnet)
@@ -126,9 +133,3 @@
 ## 2021
 ### Benchmarking Detection Transfer Learning with Vision Transformers arXiv 2021 [[paper]]()
 ### Oriented R-CNN for Object Detection ICCV 2021 [[paper]]()
-
-## 2022
-### CenterNet++ for Object Detection arXiv 2022 [[paper]](https://arxiv.org/abs/2204.08394) [[code]](https://github.com/Duankaiwen/PyCenterNet)
-"On the MS-COCO dataset, CenterNet with Res2Net-101 and Swin-Transformer achieves APs of **53.7%** and **57.1%**, respectively"
-### (ViTDet) Exploring Plain Vision Transformer Backbones for Object Detection arXiv 2022 [[paper]]()
-"We report **61.3** AP^box on the COCO dataset with a plain ViT-Huge backbone, using only ImageNet-1K pre-training with no labels", "research direction: plain-backbone detection, decoupling pre-training and fine-tuning"
