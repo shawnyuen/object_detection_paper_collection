@@ -8,6 +8,9 @@
 ### Recent Advances in Deep Learning for Object Detection 2019 [[paper]](https://arxiv.org/abs/1908.03673)
 ### Imbalance Problems in Object Detection: A Review 2019 [[paper]](https://arxiv.org/abs/1909.00169)
 
+## 2023
+### Lite DETR - An Interleaved Multi-Scale Encoder for Efficient DETR CVPR 2023 [[paper]](https://arxiv.org/abs/2303.07335)
+
 ## 2022
 ### CenterNet++ for Object Detection arXiv 2022 [[paper]](https://arxiv.org/abs/2204.08394) [[code]](https://github.com/Duankaiwen/PyCenterNet)
 "On the MS-COCO dataset, CenterNet with Res2Net-101 and Swin-Transformer achieves APs of **53.7%** and **57.1%**, respectively"
